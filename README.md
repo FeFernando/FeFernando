@@ -5,7 +5,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FeFernando&show_icons=true&theme=radical)
+
 
 
 
